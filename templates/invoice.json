@@ -1,0 +1,15 @@
+{
+  "record": "invoice",
+  "invoice_id": "INV-88",
+  "quote_id": "Q-1044",
+  "job": "Northland mechanical room",
+  "customer": "Hale Properties",
+  "site": "Kansas City, MO",
+  "issued_on": "2026-11-22",
+  "operator": "Sample operator",
+  "lines": [
+    { "description": "Progress billing, curb adapter set", "qty": 1, "unit_cents": 145000 }
+  ],
+  "total_cents": 145000,
+  "note": "Sample invoice. Not a bill."
+}

@@ -1,0 +1,16 @@
+{
+  "record": "quote",
+  "quote_id": "Q-1044",
+  "job": "Northland mechanical room",
+  "customer": "Hale Properties",
+  "trade": "HVAC",
+  "site": "Kansas City, MO",
+  "issued_on": "2026-11-18",
+  "operator": "Sample operator",
+  "lines": [
+    { "description": "Replace RTU-2, 7.5 ton", "qty": 1, "unit_cents": 860000 },
+    { "description": "Crane and curb adapter", "qty": 1, "unit_cents": 145000 }
+  ],
+  "total_cents": 1005000,
+  "note": "Sample record. Not a real customer job. Price holds 15 days. Excludes electrical."
+}

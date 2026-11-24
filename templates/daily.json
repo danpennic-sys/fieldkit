@@ -1,0 +1,12 @@
+{
+  "record": "daily",
+  "daily_id": "D-2026-11-21",
+  "job": "Northland mechanical room",
+  "site": "Kansas City, MO",
+  "work_date": "2026-11-21",
+  "operator": "Sample operator",
+  "crew": "2 mechanics",
+  "hours": 14,
+  "work": "Set curb adapter. RTU not lifted. Sample only.",
+  "blockers": "Crane moved to Monday. No weather service was consulted."
+}

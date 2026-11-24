@@ -1,0 +1,15 @@
+{
+  "record": "change_order",
+  "change_id": "CO-17",
+  "quote_id": "Q-1044",
+  "job": "Northland mechanical room",
+  "customer": "Hale Properties",
+  "site": "Kansas City, MO",
+  "issued_on": "2026-11-20",
+  "operator": "Sample operator",
+  "reason": "Condensate line was not on the original quote. Sample only.",
+  "lines": [
+    { "description": "Add condensate line and trap", "qty": 1, "unit_cents": 68000 }
+  ],
+  "delta_cents": 68000
+}
